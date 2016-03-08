@@ -2,7 +2,7 @@
 
 [Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 ## Editing
-What happen
+What happen 1
 
 ## Getting Started
 
